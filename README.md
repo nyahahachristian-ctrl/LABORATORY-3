@@ -1,11 +1,8 @@
 # LABORATORY-3
-# Antenna Engineering: Comprehensive Reference Guide
+# Applied-Microwave-and-Antenna-Engineering
 
-This repository provides technical descriptions and operational principles for a wide range of antenna geometries, from basic resonant wires to complex phased arrays.
 
----
-
-## 📡 Detailed Antenna Descriptions
+## 📡 Antenna Descriptions
 
 ### 1. Linear & Resonant Wire Antennas
 * **Dipole Antenna (1/4, 1/2, 3/2 λ):** The fundamental building block of RF. The **1/2λ dipole** is the most efficient, producing a doughnut-shaped radiation pattern. The **1/4λ** is a shortened version, while the **3/2λ** provides higher gain but develops multiple lobes.
